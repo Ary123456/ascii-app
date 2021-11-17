@@ -1,0 +1,20 @@
+body{
+
+    background-position: center;
+    background-size: cover;
+}
+#myCanvas
+{
+    margin-top: 10px;
+	border-width:7px;
+	background-color: rgb(0, 0, 0); 
+	border-style:ridge;
+	border-color: red;
+}
+
+h1,h4
+{
+	
+	color:red!important;
+	
+}
